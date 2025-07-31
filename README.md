@@ -5,7 +5,7 @@
 ![GitHub stars](https://img.shields.io/github/forks/ravi688/ttvulkan?style=social)
 [![GitHub stars](https://img.shields.io/github/issues/ravi688/ttvulkan?style=social)](https://github.com/ravi688/BuildMaster/issues)  
 [![Join Us on Discord](https://img.shields.io/badge/Join%20us%20on-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mPGfDTXGdE)
-[![Project's Website](https://img.shields.io/badge/View%20-Website-5865F2?style=for-the-badge&logo=web&logoColor=white)](https://ttvulkan.ravisingh.xyz)
+[![Project's Website](https://img.shields.io/badge/View%20-Website-63F632?style=for-the-badge&logo=web&logoColor=white)](https://ttvulkan.ravisingh.xyz)
 
 
 Vulkan Compute implemention for Tenstorrent Hardware
