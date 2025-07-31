@@ -1,4 +1,8 @@
 # ttvulkan
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Latest Release](https://img.shields.io/github/v/release/ravi688/ttvulkan?label=latest&logo=github)](https://github.com/ravi688/BuildMaster/releases/latest)
+![GitHub stars](https://img.shields.io/github/stars/ravi688/ttvulkan?style=social)
+![GitHub stars](https://img.shields.io/github/forks/ravi688/ttvulkan?style=social)
+[![GitHub stars](https://img.shields.io/github/issues/ravi688/ttvulkan?style=social)](https://github.com/ravi688/BuildMaster/issues)
 
 Vulkan Compute implemention for Tenstorrent Hardware
